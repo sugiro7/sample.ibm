@@ -1,2 +1,3 @@
 # sample.ibm
-this is a sample code, IBM
+this is a sample code, IBM.
+lets get sart.
